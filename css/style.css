@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid rgb(255, 153, 0);
+border-radius: 5px;
+  }
+img {
+    width: 50px;
+    height: 50px;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border-spacing: 7px;
+    background-color: rgb(255, 240, 220);
+}
+
+th {
+    background-color: rgb(255, 153, 0);
+}
+td {
+    background-color: rgb(255, 255, 255);
+}
